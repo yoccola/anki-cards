@@ -1,0 +1,14 @@
+# Core dependencies
+pandas==2.1.4
+
+# Development dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+black==23.12.1
+flake8==7.0.0
+mypy==1.8.0
+types-pandas==2.1.4.20231219
+
+# CLI enhancements
+click==8.1.7
+tqdm==4.66.1
